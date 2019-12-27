@@ -2,10 +2,10 @@
 
 class mm01{
     public static void main(){
-        System asdasd
-        sdasdas
-
-    }
+        System asdasd   
+        sdassd dsa ddas
+        asdas
+    }s
 
 
 }
